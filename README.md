@@ -24,3 +24,10 @@
 1. 安裝依賴套件：
    ```bash
    pip install -r requirements.txt
+2.下載並安裝 ChromeDriver，並確認與瀏覽器版本相符。
+
+3.執行主程式：
+   ```bash
+   python main.py
+   ```
+4.依照提示輸入 Facebook 帳號密碼。
