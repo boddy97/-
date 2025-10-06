@@ -3,6 +3,7 @@
 Author: 鄭宇翔
 Description: 使用 Selenium、pytesseract、fuzzywuzzy 自動化搶票
 Version: Public GitHub Edition (Safe)
+本程式僅供技術研究與學習用途!! 使用者須遵守目標網站之服務條款與相關法規!! 嚴禁商業用途、濫用或任何違法行為!!
 """
 
 from selenium import webdriver
